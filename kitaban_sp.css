@@ -187,7 +187,7 @@ h2 {
   display: grid;
   justify-items: left;
   align-items: flex-start;
-	grid-template-columns: 60px 1fr;
+	grid-template-columns: 30px 1fr;
 	gap: 1em;
 	place-content: center;
 	margin: 0em 2em; 
