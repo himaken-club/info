@@ -190,7 +190,7 @@ h2 {
 	grid-template-columns: 40px 1fr;
 	gap: 0.5em;
 	place-content: center;
-	margin: 0em 2em; 
+	margin: 0em 1em; 
 }
 
 /* ヘッダー */
