@@ -73,12 +73,12 @@ body {
 	margin: 0 auto;
 	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;	/*フォント種類*/
 	font-size: 14px;
-  color: #060607;
+	color: #060607;
 	text-align: left;
 	line-height: 2;	
 }
 .area1 {
-  background-color: #fff;
+	background-color: #fff;
 	padding: 10% 0%;
 	text-align: left;
 }
@@ -99,7 +99,7 @@ a:hover{
 
 /* 太字 */
 span.bold{
-  font-weight: bold;
+	font-weight: bold;
 	font-size:15px;
 }
 
@@ -121,7 +121,7 @@ img.p {
 
 /* p要素の余白 */
 p {
-  margin: 0em 1em;
+	margin: 0em 1em;
 }
 
 /* スクロールバー */
@@ -138,7 +138,7 @@ p {
 
 /* スムーススクロール */
 html {
-    scroll-behavior: smooth;
+	scroll-behavior: smooth;
 }
 
 /* 見出し */
@@ -154,7 +154,7 @@ h2 {
 	color: #80848E;
 	background: #EBEDEF;
 	font-size:14px;
-  padding: 0.5em 1em;
+	padding: 0.5em 1em;
 	margin: 2em 1em;
 	border-radius: 1em;
 }
@@ -184,9 +184,9 @@ h2 {
 
 /* グリッドレイアウト */
 #list {
-  display: grid;
-  justify-items: left;
-  align-items: flex-start;
+	display: grid;
+	justify-items: left;
+	align-items: flex-start;
 	grid-template-columns: 30px 1fr;
 	gap: 0.5em;
 	place-content: center;
@@ -195,12 +195,12 @@ h2 {
 
 /* ヘッダー */
 header {
-  width: 100%;
-  height: 50px;
-  background-color: #fff;
-  padding-top: 5px;
-  box-sizing: border-box;
-  position: fixed;
+	width: 100%;
+	height: 50px;
+	background-color: #fff;
+	padding-top: 5px;
+	box-sizing: border-box;
+	position: fixed;
 	z-index: 100; 
 	box-shadow: 0 0 5px 0 #D7D9DC;
 }
