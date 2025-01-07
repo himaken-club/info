@@ -79,7 +79,7 @@ body {
 }
 .area1 {
 	background-color: #fff;
-	padding: 10% 0%;
+	padding: 20% 0%;
 	text-align: left;
 }
 
@@ -110,7 +110,7 @@ span.small{
 
 /* アイコン */
 img.icon {
-	width: 30px;
+	width: 40px;
 }
 
 /* 絵文字 */
@@ -187,7 +187,7 @@ h2 {
 	display: grid;
 	justify-items: left;
 	align-items: flex-start;
-	grid-template-columns: 30px 1fr;
+	grid-template-columns: 40px 1fr;
 	gap: 0.5em;
 	place-content: center;
 	margin: 0em 2em; 
