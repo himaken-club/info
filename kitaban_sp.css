@@ -72,7 +72,7 @@ body {
 	padding: 0%;
 	margin: 0 auto;
 	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;	/*フォント種類*/
-	font-size: 12px;
+	font-size: 14px;
   color: #060607;
 	text-align: left;
 	line-height: 2;	
@@ -115,7 +115,7 @@ img.icon {
 
 /* 絵文字 */
 img.p {
-	width: 12px;
+	width: 14px;
 	margin: 0 auto;
 }
 
@@ -153,7 +153,7 @@ h2 {
 	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;	/*フォント種類*/
 	color: #80848E;
 	background: #EBEDEF;
-	font-size:12px;
+	font-size:14px;
   padding: 0.5em 1em;
 	margin: 2em 1em;
 	border-radius: 1em;
