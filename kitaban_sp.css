@@ -79,7 +79,7 @@ body {
 }
 .area1 {
   background-color: #fff;
-	padding: 8% 3%;
+	padding: 10% 0%;
 	text-align: left;
 }
 
@@ -110,7 +110,7 @@ span.small{
 
 /* アイコン */
 img.icon {
-	width: 60px;
+	width: 30px;
 }
 
 /* 絵文字 */
@@ -196,7 +196,7 @@ h2 {
 /* ヘッダー */
 header {
   width: 100%;
-  height: 40px;
+  height: 50px;
   background-color: #fff;
   padding-top: 5px;
   box-sizing: border-box;
