@@ -71,7 +71,7 @@ body {
 .main {
 	padding: 0% 15%;
 	margin: 0 auto;
-	font-family: sans-serif;	/*フォント種類*/
+	font-family: sans-serif;
 	font-size: 16px;
 	color: #060607;
 	text-align: left;
@@ -126,7 +126,7 @@ img.p {
 
 /* p要素の余白 */
 p {
-  margin: 0.5em 1em;
+  margin: 1em 1em;
 }
 
 /* スクロールバー */
