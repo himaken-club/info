@@ -126,7 +126,7 @@ img.p {
 
 /* p要素の余白 */
 p {
-  margin: 1em 1em;
+  margin: 0em 1em;
 }
 
 /* スクロールバー */
