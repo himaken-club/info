@@ -110,7 +110,7 @@ span.small{
 
 /* 斜体 */
 span.italic{
-	font-style: italic;
+	font-style: oblique 15deg;
 }
 
 /* アイコン */
