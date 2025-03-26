@@ -108,6 +108,11 @@ span.small{
 	font-size: 10px;
 }
 
+/* 斜体 */
+span.italic{
+	font-style: italic;
+}
+
 /* アイコン */
 img.icon {
 	width: 40px;
