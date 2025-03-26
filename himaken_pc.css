@@ -99,13 +99,18 @@ a:hover{
 
 /* 太字 */
 span.bold{
-  font-weight: bold;
+	font-weight: bold;
 	font-size:18px;
 }
 
 /* 小文字 */
 span.small{
 	font-size: 12px;
+}
+
+/* 斜体 */
+span.italic{
+	font-style: italic;
 }
 
 /* アイコン */
